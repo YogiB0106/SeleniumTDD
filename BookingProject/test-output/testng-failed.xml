@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Booking Suite]">
+  <test thread-count="5" name="Command line test 89009cab-a0f9-4336-97ad-740ded1223eb(failed)">
+    <classes>
+      <class name="testcases.PaymentManager">
+        <methods>
+          <include name="makePayment"/>
+        </methods>
+      </class> <!-- testcases.PaymentManager -->
+    </classes>
+  </test> <!-- Command line test 89009cab-a0f9-4336-97ad-740ded1223eb(failed) -->
+</suite> <!-- Failed suite [Booking Suite] -->
